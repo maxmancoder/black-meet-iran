@@ -1,0 +1,16 @@
+{
+  "db": {
+    "host": "localhost",
+    "name": "blackmeet",
+    "user": "root",
+    "pass": ""
+  },
+  "secret": "ObsidianFlux_BlackMeet_Secret_2024_x9Kp2Lq",
+  "socket_port": 3000,
+  "base_url": "http://localhost/black-meet",
+  "turn": {
+    "user": "blackmeet",
+    "pass": "BmTurn@2024!x9Kp",
+    "port": 3478
+  }
+}

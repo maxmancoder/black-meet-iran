@@ -1,0 +1,10 @@
+# Protect sensitive files
+<Files "config.json">
+    Require all denied
+</Files>
+<Files "server.js">
+    Require all denied
+</Files>
+<Files "package.json">
+    Require all denied
+</Files>
